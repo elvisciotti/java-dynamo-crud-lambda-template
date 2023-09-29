@@ -1,0 +1,5 @@
+name: fc-ext-similar
+runtime: nodejs
+description: Feature Compare Browser extension lambda endpoint to save product and suggest similar
+config:
+  aws:region: us-east-1
